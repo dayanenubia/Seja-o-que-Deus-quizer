@@ -5,4 +5,31 @@ div.collapse {	margin-left: 30px;}
 div.cinza {	margin-right: 400px;}
 
 div.carousel-item {	height: 100%;
-					width: 100%;}
+					width: 100%;
+					margin-bottom: 90px;}
+
+div.texto {	color: black;
+			text-align: center;
+			}
+
+div.texto h4 {	color: grey;
+				margin-bottom: 45px;}
+
+div.card {	text-align: center;}
+
+div.preto {	background-color: black;
+			margin-bottom: 70px;}
+
+div.branco {	background-color: white;
+				margin-bottom: 70px;}
+
+div.container h1 {	text-align: center;
+					color: white;}
+
+div.container h4 {	text-align: center;
+					color: grey;}
+
+div.col-3 p {	color: white;}
+
+h1 i.fas {	color: grey;}
+
