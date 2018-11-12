@@ -29,7 +29,9 @@ div.container h1 {	text-align: center;
 div.container h4 {	text-align: center;
 					color: grey;}
 
-div.col-3 p {	color: white;}
+div.col-4 p {	color: white;}
 
 h1 i.fas {	color: grey;}
+
+p i.fas {	margin-right: 10px;}
 
