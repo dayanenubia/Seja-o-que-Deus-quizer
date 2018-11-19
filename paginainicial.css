@@ -17,13 +17,13 @@ div.texto h4 {	color: grey;
 
 div.card {	text-align: center;}
 
-div.preto {	background-color: black;
-			margin-bottom: 70px;}
-
-div.branco {	background-color: white;
+div.pretoI {	background-color: black;
 				margin-bottom: 70px;}
 
-div.container h1 {	text-align: center;
+div.brancoI {	background-color: white;
+				margin-bottom: 70px;}
+
+div.pretoI div.container h1 {	text-align: center;
 					color: white;}
 
 div.container h4 {	text-align: center;
@@ -34,4 +34,15 @@ div.col-4 p {	color: white;}
 h1 i.fas {	color: grey;}
 
 p i.fas {	margin-right: 10px;}
+
+div.brancoII div.col b {	color: #be5530;}
+
+div.brancoII div.col p {	color: grey;}
+
+div.pretoII {	background-color: black;
+				margin-bottom: 70px;}
+
+div.pretoII b {	color: white;}
+
+div.pretoII h6 {	color: white;}
 
